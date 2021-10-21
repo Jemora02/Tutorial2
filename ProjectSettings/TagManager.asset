@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Door
+  - Door 2
+  - Wall
+  - Enemy
+  - New tag
   layers:
   - Default
   - TransparentFX
@@ -13,7 +18,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
